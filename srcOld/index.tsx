@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-// import './index.css';
+import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
@@ -18,7 +18,4 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-//added export {} to fix this error -> TS1208: 'index.tsx' cannot be compiled 
-//under '--isolatedModules' because it is considered a global script file. 
-//Add an import, export, or an empty 'export {}' statement to make it a module.
-export {}; 
+
