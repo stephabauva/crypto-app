@@ -1,11 +1,6 @@
 [ Work In Progress ]
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+This app is a dashboard for cryptocurrencies and defi
 
 ### `yarn start`
 
